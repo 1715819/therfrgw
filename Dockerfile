@@ -1,1 +1,1 @@
-FROM xyouxiu6/alistdocker:v351
+FROM xyouxiu6/alistdocker:v351tk
